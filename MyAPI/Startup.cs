@@ -17,6 +17,9 @@ using MyAPI.Data;
 
 namespace MyAPI
 {
+    /// <summary>
+    /// Demo test for Charry
+    /// </summary>
     public class Startup
     {
         public Startup(IConfiguration configuration)
